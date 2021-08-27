@@ -1,0 +1,20 @@
+{
+  "name": "Ejercicio4",
+  "version": "1.0.0",
+  "description": "Ejercicio 4",
+  "main": "mostrarPersonas.js",
+  "scripts": {
+    "start": "node mostrarPersonas.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ejercicio4",
+    "VD"
+  ],
+  "author": "Nicolas Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
