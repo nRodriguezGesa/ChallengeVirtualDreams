@@ -48,7 +48,6 @@ Ejemplo:
 <apellido>Joestar</apellido>
 <aka>Johnny</aka>
 
-
 9.	Explicar brevemente el estándar SOAP
 Es un protocolo establece como 2 objetos en proceso diferentes se comunican mediante el intercambio de datos, utilizando mensajes SOAP. Estos mensajes son documentos XML que tienen la siguiente estructura:
 •	Envelope: Raíz de la estructura, identifica al mensaje como tal (por lo tanto, es obligatoria)
