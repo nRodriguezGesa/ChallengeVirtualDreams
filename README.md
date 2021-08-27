@@ -1,5 +1,5 @@
 # ChallengeVirtualDreams
-##Ejercicio 2
+## Ejercicio 2
 1.	¿Qué es un servidor HTTP? 
 Es un software que realiza conexiones con clientes desde el lado del servidor, donde el cliente es el Browser. El servidor se encuentra “escuchando” peticiones que provienen de clientes, las procesa y emite una respuesta (bajo el protocolo HTTP) que sera enviada y renderizada por el navegador web.
 
