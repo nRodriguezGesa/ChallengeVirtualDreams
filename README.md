@@ -67,3 +67,23 @@ Además, se basa en la siguiente serie de diseños fundamentales:
 
 11.	¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
 Los headers en una request contienen información en formato de parámetros que envía el cliente al realizar una petición. El key Content-Type en un header es una propiedad que se utiliza para indicar el tipo de contenido o formato del dato que se esta enviando. Ejemplo: Content-Type: image/jpg
+
+## Ejercicio 3 
+Se encuentra en el path: /Ejercicio3/
+
+## Ejercicio 4
+Se encuentra en el path: /Ejercicio4/. Para correr el codigo js, primero se tiene que instalar por consola la dependencia con : 
+	npm i request-promise
+Por ultimo, ejercicio4.js se ejecuta con el comando: npm start en consola
+
+## Ejercicio 5
+Se encuentra en el path /Ejercicio5/. Se tienen que instalar las siguientes dependencias:
+	npm request
+	npm express
+	npm body-parser
+Por ultimo, con el comando npm start se ejecuta el script. Cuando se hace esto, el server se quedara a la "escucha" de requests hasta que se finalize la ejecucion de; script con la combinacion de teclas Ctrl + C
+
+##Ejercicio 6
+Se encuentra en el path /Ejercicio6/. 
+Al abrir el archivo .html, este lleva a un navegador con un formulario simple donde se debe completar con los campos de nombre, apellido y dni.
+Luego, cuando se presiona el boton "send", se enviara la informacion al servidor que se creo en el ejercicio anterior (debe estar prendido), se comprobara la estructura JSON y se enviara el POST a la URL pertinente.
