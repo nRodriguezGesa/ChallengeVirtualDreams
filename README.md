@@ -83,7 +83,7 @@ Se encuentra en el path /Ejercicio5/. Se tienen que instalar las siguientes depe
 	npm body-parser
 Por ultimo, con el comando npm start se ejecuta el script. Cuando se hace esto, el server se quedara a la "escucha" de requests hasta que se finalize la ejecucion de; script con la combinacion de teclas Ctrl + C
 
-##Ejercicio 6
+## Ejercicio 6
 Se encuentra en el path /Ejercicio6/. 
 Al abrir el archivo .html, este lleva a un navegador con un formulario simple donde se debe completar con los campos de nombre, apellido y dni.
 Luego, cuando se presiona el boton "send", se enviara la informacion al servidor que se creo en el ejercicio anterior (debe estar prendido), se comprobara la estructura JSON y se enviara el POST a la URL pertinente.
